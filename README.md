@@ -2,7 +2,7 @@
   
 :sparkles: I'm currently working on Python  
 :seedling: I'm currently learning React & Next.js  
-:globe_with_meridians: My blog - [barorin&?](https://barorin-to.vercel.app/)  
+:globe_with_meridians: My blog - [barorin&?](https://barorin-to.com)  
   
 # :zap:Readme Stats
 <a href="https://github.com/barorin">
