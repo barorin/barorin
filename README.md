@@ -1,4 +1,4 @@
-# Hi there! I'm [@barorin](https://twitter.com/barorinable) :tada:
+# Hi there! I'm barorin :tada:
   
 :sparkles: I'm currently working on Python  
 :seedling: I'm currently learning React & Next.js  
