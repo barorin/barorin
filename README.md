@@ -1,4 +1,4 @@
-# Hi there! I'm [@barorin](https://misskey.sda1.net/@barorin) :tada:
+# Hi there! I'm [@barorin](https://misskey.cloud/@barorin) :tada:
   
 :sparkles: I'm currently working on Python  
 :seedling: I'm currently learning React & Next.js  
