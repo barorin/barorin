@@ -1,4 +1,4 @@
-# Hi there! I'm [@barorin](https://fedibird.com/@barorin) :tada:
+# Hi there! I'm <a rel="me" href="https://fedibird.com/@barorin">@barorin@fedibird.com</a> :tada:
   
 :sparkles: I'm currently working on Python  
 :seedling: I'm currently learning React & Next.js  
