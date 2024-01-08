@@ -1,13 +1,15 @@
 # Hi there! I'm [@barorin](https://fedibird.com/@barorin) 🎉
 
+会計とITのゆるふわ二足のわらじ系生き物。Pythonをよく使ったりします。  
+アイコンはペイントで描いたテングちゃんです！
+
 ✨ I'm currently working on Python  
-🌱 I'm currently learning React & Next.js  
+🌱 I'm currently learning React/Next.js/Astro  
 
 # 🔗Link
 
 - [Blog - barorin&?](https://barorin-to.com)  
-- [Mastodon - @barorin@fedibird.com](https://fedibird.com/@barorin)  
-- [Misskey - @barorin@misskey.cloud](https://misskey.cloud/@barorin)
+- [Fedibird - @barorin@fedibird.com](https://fedibird.com/@barorin)  
 
 # ⚡Readme Stats
 
